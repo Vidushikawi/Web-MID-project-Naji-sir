@@ -14,4 +14,4 @@ speacial functions
 * payments
 * about page
 * feedbacks
-*
+
